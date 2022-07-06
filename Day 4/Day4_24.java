@@ -13,16 +13,7 @@ public class Day4_24 {
         System.out.println("number b");
         y = sc.nextInt();
 
-        if(x>y){
-            int t =x;
-            x=y;
-            y=t;
-            for(y=t;y<=t;y++){
-                System.out.print(y+" ");
-            }
-            
-        } else{
-            System.out.println(y+" ");
+    
         }
         // do{
         //     System.out.print(x + " ");
