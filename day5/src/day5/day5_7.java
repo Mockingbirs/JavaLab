@@ -16,9 +16,9 @@ public class day5_7 {
 	    	// 0번째부터 5번째 요소까지 모두 6개만 바꾼다.
 	    	for(int i=0; i<6; i++) {
 	    		j= (int)(Math.random()*45);  // 0~44범위의 임의의 값을 얻는다.
-	    		tmp = ball[i];
-	    		ball[i] = ball[j];
-	    		ball[j] = tmp;
+	    		tmp = ball[i];  //tmp에 ball[i] 값을 저장  x=y
+	    		ball[i] = ball[j]; //ball[i]에 ball[j]값을 저장 y=z
+	    		ball[j] = tmp; //ball[j]에 tmp값을 저장z = x
 	    		
 	    	}
 	    	

@@ -29,16 +29,22 @@ public class ReferenceParamEx3 {
 		}
 	
 	static void sortArr(int[] arr) {
-		for(int i=0;i<arr.length-1;i++) {
-			for(int j=0;j<arr.length-1-i;j++) {
+		for(int i=0;i<arr.length-1;i++) { //0 1 2 3 4 
+			for(int j=0;j<arr.length-1-i;j++) {//0 1 2 3 4 
 				if(arr[j]>arr[j+1]) {
 					int tmp = arr[j];
 					arr[j] = arr[j+1];
 					arr[j+1] = tmp;
-				
+					System.out.print("[");
+					
+					for(int k : arr)
+						System.out.print(k+",");
+					System.out.println("]");
 				}
+				
 			}
-		}//sortArr(int[] arr)
+				}//sortArr(int[] arr)
 	}
-
+	
+	
 }

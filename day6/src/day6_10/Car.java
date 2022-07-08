@@ -13,5 +13,5 @@ public class Car {
 	Car(String name, int number){
 		this.name = name;
 		this.number = number;
-}
+	}
 }

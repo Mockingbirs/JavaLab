@@ -7,6 +7,7 @@ public class Person1Exam {
 		System.out.println(person.name);
 		System.out.println(person.age);
 		
+		
 	}
 
 }
