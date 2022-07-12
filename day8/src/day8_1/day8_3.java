@@ -7,6 +7,7 @@ public class day8_3 {
 		System.out.println("p3.y=" + p3.y);
 		System.out.println("p3.z=" + p3.z);
 		
+		
 	}
 		
 }

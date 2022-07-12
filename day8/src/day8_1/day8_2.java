@@ -6,6 +6,7 @@ public class day8_2 {
 	c.method();
  }
 }
+
 class Parent {
 	int x =10;
 }

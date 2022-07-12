@@ -1,6 +1,6 @@
 package day8_6;
 
-public class day8_6 {
+//public class day8_6 {
 //	public static void main(String[] args) {
 //		Car car = null;
 //		FireEngine fe = new FireEngine();
@@ -15,14 +15,14 @@ public class day8_6 {
 //
 //}
 
-//public class day8_6 {
+public class day8_6 {
 	public static void main(String[] args) {
 		Car car = new Car();
 		Car car2 = null;
 		FireEngine fe = null;
 		
 		car.drive();
-		fe = (FireEngine)car;
+		fe = (FireEngine)car;  //형변환 오류 자손타입<-조상타입
 		fe.drive();
 		car2 = fe;
 		car2.drive();
