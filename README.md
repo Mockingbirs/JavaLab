@@ -1,5 +1,5 @@
 # JavaLab
-Day3  https://www.notion.so/Day-3-8f2e1a7ac3a44bd4a86c349c5c9a1e71
+Day3  https://www.notion.so/Day-3-8f2e1a7ac3a44bd4a86c349c5c9a1e71 /n
 Day4  https://www.notion.so/Day-4-48a630388f0448788276fadb5a353c68
 Day5  https://www.notion.so/Day-5-ab6df07f6ed3468bbcd32f0378bfd6d3
 Day6  https://www.notion.so/Day-6-d9654a9027f5415a8a6c25f6f130294e
