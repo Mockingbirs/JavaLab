@@ -16,3 +16,4 @@ Day15 https://www.notion.so/Day-15-cad9987e18f84ea5a1e3a2afaf45e592 <br>
 Day19 https://www.notion.so/Day-19-a8d8b71f3e4d45b88dbb092976f9e628 <br>
 Day20 https://www.notion.so/Day-20-315ee0cc0211459a8719064953812460 <br>
 Day21 https://www.notion.so/Day-21-544b944eb1dc4ad0a087079c0c535941 <br>
+Eratosthenes https://www.notion.so/Day26-5606915d5e924401b9d1559432d09491 <br>
