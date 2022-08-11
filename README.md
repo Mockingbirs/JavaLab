@@ -18,3 +18,4 @@ Day20 https://www.notion.so/Day-20-315ee0cc0211459a8719064953812460 <br>
 Day21 https://www.notion.so/Day-21-544b944eb1dc4ad0a087079c0c535941 <br>
 Eratosthenes https://www.notion.so/Sieve-of-Eratosthenes-05fba5889b2648d8bdcfd18f836bc082 <br>
 Euclidean Algorithms https://www.notion.so/Euclidean-Algorithms-bec540dc19464597913e604ec92f2271 <br>
+Day31(+exam+visit) https://www.notion.so/Day-31-eeaf453902d0488bb7ebdd0458d72adb<br>
